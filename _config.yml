@@ -6,7 +6,6 @@ url: "http://www.longbikeride.net"
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: marcog
 github_username:  marcogallotta
-google_analytics: UA-35274809-2
 include: ["_pages"]
 
 defaults:
@@ -26,6 +25,12 @@ defaults:
       values:
         layout: single
         author_profile: true
+
+analytics:
+  provider: "google"
+  google:
+    tracking_id: UA-35274809-2
+    anonymize_ip: false
 
 comments:
   provider: "disqus"
