@@ -26,4 +26,4 @@ remote-theme: pages-themes/minimal@v0.2.0
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
