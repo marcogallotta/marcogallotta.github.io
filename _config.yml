@@ -12,13 +12,21 @@ defaults:
   - scope:
       path: ""
       type: "posts"
-      values:
-        layout: single
-        author_profile: true
-        read_time: true
-        comments: true
-        share: true
-        related: true
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
 
 analytics:
   provider: "google"
@@ -37,7 +45,6 @@ plugins:
   - jekyll-include-cache
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-# theme: minimal-mistakes-jekyll
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
