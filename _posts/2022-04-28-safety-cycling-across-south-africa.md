@@ -1,5 +1,6 @@
 ---
 title:  "Safety cycling across South Africa"
+tags:   "south africa", "safety", "gravel"
 ---
 
 I just completed cycling across the country I was born and raised in, travelling 2,300km through the mountains and rural areas of South Africa from Cape Town to Durban. I was told I was crazy; that I’d be shot; I’d be eaten by a lion; many other dire predictions. But then those who had actually done the journey said it was fine. I wanted to go to see for myself.
