@@ -25,3 +25,5 @@ remote-theme: pages-themes/minimal@v0.2.0
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+theme: jekyll-theme-minimal
