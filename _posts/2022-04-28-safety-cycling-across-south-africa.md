@@ -1,3 +1,7 @@
+---
+title:  "Safety cycling across South Africa"
+---
+
 I just completed cycling across the country I was born and raised in, travelling 2,300km through the mountains and rural areas of South Africa from Cape Town to Durban. I was told I was crazy; that I’d be shot; I’d be eaten by a lion; many other dire predictions. But then those who had actually done the journey said it was fine. I wanted to go to see for myself.
 
 I was born and raised in Cape Town. So I knew the horrors of the worst parts of the city. Therefore I avoided cycling through any major cities, skirting around Port Elizabeth and stopping just short of Durban. Crime is rife in those areas. My experience in the rural areas was far from it. I came through with zero issues, only feeling a little uneasy in a couple of situations. I didn’t even carry a bike lock!
