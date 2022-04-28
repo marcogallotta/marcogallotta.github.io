@@ -23,8 +23,10 @@ comments:
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
+# theme: minimal-mistakes-jekyll
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
