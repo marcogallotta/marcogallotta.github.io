@@ -8,6 +8,18 @@ twitter_username: marcog
 github_username:  marcogallotta
 google_analytics: UA-35274809-2
 
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "longbikeride-1"
+
 # Build settings
 plugins:
   - jekyll-feed
