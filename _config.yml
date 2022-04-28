@@ -6,6 +6,7 @@ url: "http://www.longbikeride.net"
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: marcog
 github_username:  marcogallotta
+google_analytics: UA-35274809-2
 
 # Build settings
 plugins:
