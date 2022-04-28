@@ -12,7 +12,7 @@ google_analytics: UA-35274809-2
 plugins:
   - jekyll-feed
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: minimal-mistakes-jekyll
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
