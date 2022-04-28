@@ -20,8 +20,6 @@ defaults:
       comments: true
       share: true
       related: true
-
-defaults:
   - scope:
       path: ""
       type: "pages"
