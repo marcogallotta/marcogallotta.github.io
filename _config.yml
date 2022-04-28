@@ -8,10 +8,11 @@ twitter_username: marcog
 github_username:  marcogallotta
 
 # Build settings
-markdown: kramdown
-theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+markdown: kramdown
+remote-theme: pages-themes/minimal@v0.2.0
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
