@@ -1,1 +1,26 @@
+title: longbikeride.net
+email: marco@gallotta.co.za
+description: >-
+  Long distance cycling adventures of Moinudin.
+url: "http://www.longbikeride.net"
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: marcog
+github_username:  marcogallotta
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
