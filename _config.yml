@@ -7,6 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: marcog
 github_username:  marcogallotta
 google_analytics: UA-35274809-2
+include: ["_pages"]
 
 defaults:
   - scope:
@@ -19,6 +20,12 @@ defaults:
       comments: true
       share: true
       related: true
+  - scope:
+      path: ""
+      type: "pages"
+      values:
+        layout: single
+        author_profile: true
 
 comments:
   provider: "disqus"
