@@ -1,6 +1,6 @@
 ---
 title:  "Safety cycling across South Africa"
-#tags:   "south africa" "safety" "gravel"
+tags:   "south africa" safety gravel
 ---
 
 I just completed cycling across the country I was born and raised in, travelling 2,300km through the mountains and rural areas of South Africa from Cape Town to Durban. I was told I was crazy; that I’d be shot; I’d be eaten by a lion; many other dire predictions. But then those who had actually done the journey said it was fine. I wanted to go to see for myself.
@@ -11,7 +11,7 @@ When you think about it, it makes sense. People move to the cities from rural ar
 
 Rural dwellers also have far fewer people rushing through their area. They probably see many cyclists, so when I ride past it intrigues many of them. I had loads of kids cheer me along. While many locals didn’t seem to want to talk, those I did stop and talk with were often quite interested in my story. I had some really touching experiences in some places, which I hope to get around to in future writings. When you get such a feeling from someone, they aren’t going to attack or try to steal anything from you. Such crime also often results more from the mob mentality only present in larger cities.
 
-Perhaps the most nerve-wracking times were leaving my bike outside a shop while I went inside. I’d ask a security guard or someone working there to watch over my bike. This worked easily in all but two cases: once I had to ask several people before finding someone who seemed reluctant to do so (she was too busy focused on her job?), and another time the security guards were too focused on checking that shoppers had paid for everything in their bags. With this strategy, I had zero issues. Most of the bigger shops also had security cameras, and with the smaller ones I could keep an eye on my bike most of the time.
+Perhaps the most nerve-wracking times were leaving my bike outside a shop while I went inside. I’d ask a security guard or someone working there to watch over my bike. This worked easily in all but two cases: once I had to ask several people before finding someone who seemed reluctant to do so (she was too busy focused on her job?), and another time the security guards were too focused on checking that shoppers had paid for everything in their bags. I'd take my phone in with me, and stash my bike computer in one of the bike's bags. With this strategy, I had zero issues. Most of the bigger shops also had security cameras, and with the smaller ones I could keep an eye on my bike most of the time.
 
 The other time I had to leave my bike unattended was at camp while sleeping. Most of the time I was either at a formal camping site or lodge, and the formal sites gave a much higher sense of safety so I never worried once. A few times though I would wild camp, finding a place in the bushes on the side of the road. These were nerve-wracking at times, but I had done it plenty of times in the UK and my strategy is to find a place where people are unlikely to spot me. Once  was amongst large (non-poisonous) spiders and cows, which I was more concerned about!
 
