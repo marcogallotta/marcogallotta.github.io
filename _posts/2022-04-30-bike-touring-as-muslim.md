@@ -23,11 +23,13 @@ Reading salah on the go, and the other things I've mentioned, has taught me a lo
 There are several duas I recite, most on a daily basis. I'll share some of the more relevant ones here. Before setting out on each ride, getting into a car or any other mode of transport, I recite the Quranic verse
 
  سُـبْحَانَ الَّذِي سَخَّـرَ لَنَا هَذَا وَمَا كُنّا لَهُ مُقْـرِنينوَإِنّا إِلى رَبِّنا لَمُنـقَلِبُون
+
 (Subhanal-ladzi sakh-khara lana hadza wa ma kunna lahu muqrinin. Wa inna ila Rabbina lamun-qalibun.)
 
 and the dua
 
 بِسْم اللَّهِ توكَّلْتُ عَلَى اللَّهِ، وَلا حوْلَ وَلا قُوةَ إلاَّ بِاللَّهِ
+
 (Bismillah, tawakkaltu 'alallah, wa la hawla wa la quwwata illa billah)
 
 There are more travel-related duas [here](https://muslim.sg/articles/10-powerful-duas-and-prayers-for-travelling).
@@ -35,20 +37,33 @@ There are more travel-related duas [here](https://muslim.sg/articles/10-powerful
 I make a few duas for my well-being:
 
 اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ
+
 (Allahumma inni as’alukal-‘afwa wal-‘afiyah fid-dunya wal-akhirah)
 
 اللَّهُمَّ عَافِنِي فِي بَدَنِي، اللَّهُمَّ عَافِنِي فِي سَمْعِي، اللَّهُمَّ عَافِنِي فِي بَصَرِي، لَا إِلَهَ إِلَّا أَنْتَ
+
 (Allahumma ‘afini fi badani, Allahumma ‘afini fi sam’i, Allahumma ‘afini fi basari La ilaha illa anta)
 
  اَللّٰهُمَّ إِنِّیْ أَعُوْذُبِکَ مِنَ الْبَرَصِ، وَالْجُنُوْنِ، وَالْجُذَامِ، وَمِنْ سَیِّءِ الاَسْقَامِ 
+
 (Allahumma inni a'udhu bika minal-barasi, wal-jununi, wal-judhami, wa min sayyi'il-asqaam)
 
 and this one for protection from harmful creatures:
 
 أَعـوذُبِكَلِمـاتِ اللّهِ التّـامّـاتِ مِنْ شَـرِّ ما خَلَـق
+
 (A‘udhu bi kalimat Allaah al-taammaat min sharri ma khalaq)
 
 and I recite the following three times in the morning and evening for protection from calamities in general, and before eating/drinking anything that might be harmful:
 
 بِسْمِ اللَّهِ الَّذِي لاَ يَضُرُّ مَعَ اسْمِهِ شَىْءٌ فِي الأَرْضِ وَلاَ فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ
+
 (Bismillahil-ladhi la yadurru ma’as-mihi shai’un fil-ardi wa la fis-sama’i, wa Huwas-Sami’ul-‘Alim)
+
+Whenever I leave my bike or other belongings unattended, I recite xcxc 11 times, and ayatul kursi:
+
+ اللَّهُ لاَ إِلَهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلاَّ بِمَا شَاءَ وَسِعَ كُرْسِيُّهُ السَّمَاواتِ وَالأَرْضَ وَلاَ يَئُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ 
+
+(Allahu laaa ilaaha illaa huwal haiyul qai-yoom; laa taakhuzuhoo sinatunw wa laa nawm; lahoo maa fissamaawaati wa maa fil ard; man zallazee yashfa'u indahooo illaa be iznih; ya'lamu maa baina aideehim wa maa khalfahum; wa laa yuheetoona beshai 'immin 'ilmihee illa be maa shaaaa; wasi'a kursiyyuhus samaa waati wal arda wa la ya'ooduho hifzuhumaa; wa huwal aliyyul 'azeem)
+
+Make sure to always rectire durood before and after any dua.
