@@ -6,7 +6,7 @@ published: false
 
 I'm a Muslim convert with a new passion for touring the world by bicycle. I just completed my first tour across South Africa. When I was newly interested in cycling, there were two big hurdles I had to cross: clothing and intention. As my distances grew, I encountered another: performing salah on the road. I found surprisingly few resources online to help me answer relatively simple questions, and so in cases I had to get a little creative. I'll do my best to share what I learned.
 
-Muslim men are required to cover themselves from their naval (belly button) to the bottom of their knees. Women have to cover much more. Not doing so is considered equivalent to being naked, and is sinful. Winter isn't an issue for us men, but most summer cycling clothing fits above the knee. At times, 3/4 bibs which fall just below the knee can work, but it took a while until I discovered [Lusso's Cooltech 3/4 Bibtights](https://www.lusso.bike/products/3q-cooltech-bibtights), rated for 12-20ºC temperatures. Much better than thermal equivalents rated for lower temperatures, but far too warm for the 30-40ºC temperatures I've been cycling in.
+Muslim men are required to cover themselves from their naval (belly button) to the bottom of their knees (TODO: check if this is Hanafi only). Women have to cover much more. Not doing so is considered equivalent to being naked, and is sinful. Winter isn't an issue for us men, but most summer cycling clothing fits above the knee. At times, 3/4 bibs which fall just below the knee can work, but it took a while until I discovered [Lusso's Cooltech 3/4 Bibtights](https://www.lusso.bike/products/3q-cooltech-bibtights), rated for 12-20ºC temperatures. Much better than thermal equivalents rated for lower temperatures, but far too warm for the 30-40ºC temperatures I've been cycling in.
 
 After trying several options, I settled on [Pearl iZumi's Sun Legs](https://www.pearlizumi.com/products/sun-legs-14371835). They're thin, and have the added benefit of UV protection. I ended up covering my body for the sun protection, leaving only my face exposed. This gave me a simple explanation to tell non-Muslims who asked why I was dressed this way.
 
@@ -19,3 +19,12 @@ I also had the intention of visiting mosques along the way, but the problem is t
 Since I can't visit a mosque while cycling, how can I read salah (the name of our prayers)? Fortunately, Muslims are allowed to read their salah almost anywhere (except for disgraveful places like the toilet). Although we generally have to wash ourselves with water, we have another way of purifying ourselves (Tayammum) using any earthly susbtance such as dirt. So I'd just find any flat spot on the side of the road, rest my bike nearby, and read salah there. If I had enough water, I'd perform wudhu, otherwise I'd perform tayammum. It's rarely difficult to find a good spot, but sometimes weather conditions make it less than desirable. Busy cities are tricky places, but I can usually pass through them quickly enough, or plan ahead. The weather, such as rain, I just have to deal with, knowing the importance of salah, although salah times are wide enough that usually I can avoid the worst of the rain.
 
 Reading salah on the go, and the other things I've mentioned, has taught me a lot about various practical aspects of Islam. I also encountered many challenges, where the teaches of Islam provide a general framework for how to decide what to do, but I had to learn to adapt to these new scenarios. Men are not allowed to engage with women for example, but there were some cases where I had to, such as booking accommodation. I tend to try my best, and then ask an Islamic scholar afterwards if what I did was correct or if I could have done better. I'm wired this way after studying Islam full-time for three years, and also have strong connections with a great scholar. I encourage other Muslims to develop this mindset, as otherwise it's too easy to fall into the habit of sinning without realising what you're doing.
+
+There are several duas I recite, most on a daily basis. I'll share some of the more relevant ones here. Before setting out on each ride, getting into a car or any other mode of transport, I recite the Quranic verse
+
+xcxc
+
+and the dua
+
+بِسْم اللَّهِ توكَّلْتُ عَلَى اللَّهِ، وَلا حوْلَ وَلا قُوةَ إلاَّ بِاللَّهِ
+
