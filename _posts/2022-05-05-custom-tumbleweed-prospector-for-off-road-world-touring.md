@@ -7,7 +7,7 @@ My first bike was a £170 second hand road bike. The geometry was ancient and it
 
 My first big tour across South Africa was done, and with a desire to tour around Africa and the rest of the world developing, I realised my bike knowledge was good enough to look for my third bike: one that would take me around the world. I started asking around to get ideas before my SA trip had even begun, so I had the whole trip to sit on the idea and use it to figure out what I enjoyed. I was close to going for a Surly, but eventually settled on the [Tumbleweed Prospector](https://tumbleweed.cc/products/prospector). Amongst a whole host of reasons, in summary It’s designed as an expedition MTB for the Rohloff hub.
 
-[!Tumbleweed Prospector](/assets/prospector.jpg)
+![Tumbleweed Prospector](/assets/prospector.jpg)
 
 I figured I know enough about bikes now, and wanted to extend my knowledge further. I ended up modifying so many parts on my gravel bike, I didn’t want to waste the stock components on this one. So I decided to purchase the frameset and select the components I wanted. The priorities I came up with after researching the experiences of others were that the parts had to be as reliable as possible, minimise maintenance, maximise comfort, while only then really factoring in weight and cost. I’m not going to even mention the final cost. Suffice to say it’s not cheap, but if you were to buy a 4x4 for a world tour I can assure you it would [cost 10-100 times more](https://www.themanual.com/auto/best-overland-vehicles/).
 Selecting components
