@@ -25,6 +25,8 @@ The military showed up in four vehicles. Two  soldiers walked up to us. We show
 
 What next? We're still making our way to the city of Durango, where we'll talk to locals and evaluate how to get to Zacatecas City. The locals where we are now say the state of Zacatecas is better than Sinaloa, but worse than Durango. Another group of cyclists who encountered shooting in Sinaloa said they bussed to Zacatecas City. It's an ongoing case of asking locals as we proceed, as those further away are less updated on the reality of each region. Would I recommend taking this route? If you understand the risks and know how to react when things turn bad, then yes I think it's fine. I would probably still ride this road again. It's incredibly beautiful. Many cyclists say it was their favourite in all of Mexico. Any traveler doing what we do needs to know how to evaluate the risks, combat complacency, and make their own decision. I know many who aren't coming here because of the cartels. But I've also had the experience of growing up in a country with its own problems, and have cycled through Ethiopia which I think is worse than Mexico. Perhaps the biggest challenge in reality is that of communication. They speak so fast, it's hard to make much sense of what they're saying, and not understanding them could come across the wrong way and lead to bigger problems. The biggest advic  I have for anyone traveling here is to make it clear to cartels that you're not American. If you are American though, then no offense but I don't know how to help you in this country.
 
+You can follow the rest of my journey on [Instagram](https://instagram.com/marcog1).
+
 ![Lanscape](/assets/P1254697.jpeg)
 ![Dogs](/assets/P1254690.jpeg)
 ![Town](/assets/P1234633.jpeg)
